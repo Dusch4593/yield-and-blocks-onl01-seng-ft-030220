@@ -6,6 +6,5 @@ end
 
 yielding { 
   puts "the method has yielded to the block!" 
-  puts "here's another message!"
 }
 
