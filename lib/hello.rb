@@ -7,4 +7,4 @@ def hello_t(array)
 end
 
 # call your method here!
-hello_t(["Tom", "Tim", "Janet"]) {}
+hello_t(["Tom", "Tim", "Janet"]) {|name| puts name}
